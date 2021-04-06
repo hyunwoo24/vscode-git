@@ -1,6 +1,3 @@
 # vscode-git
-for vscode-git 
-
-This is for github.
-Test again.
-
+## for vscode-git 
+### This is for github.
